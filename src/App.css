@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  background: #fff url(./sky.jpeg);
+  width: 100%;
+  min-height: 595px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 
 .App-logo {
